@@ -20,5 +20,5 @@
    <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
    <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
    <img align="center" alt="nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-   <img align="center" alt="gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
+   <img align="center" alt="gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg">
 </div>
