@@ -8,5 +8,5 @@
    <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">   
    <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-   <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg">   
+   <img align="center" alt="prolog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg">   
 </div>
